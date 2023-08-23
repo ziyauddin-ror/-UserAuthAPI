@@ -48,3 +48,4 @@ end
 
 gem 'rspec-rails'
 gem 'rswag'
+gem 'jwt'
